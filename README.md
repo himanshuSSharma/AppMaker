@@ -13,4 +13,4 @@ Below are some useful links to get you started
  * [How to register with ShepHertz] (https://github.com/himanshuSSharma/AppMaker/blob/master/Quick%20Start%20Guide)
  * [Developer Guide] (http://api.shephertz.com/cloudapidocs/guide/0.8.3/java/user_api.html)
  * [API's] (http://api.shephertz.com/cloudapidocs/javadocs.php)
- * [Sample App] (https://github.com/himanshuSSharma/AppMaker/blob/master/Sample%20File)
+ * [Sample App] (https://github.com/himanshuSSharma/AppMaker/blob/master/Sample.md)
